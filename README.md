@@ -1,7 +1,9 @@
-### Hey! My name is Fellipe and I'm a self-taught programmer and english speaker.
+<img align="left" src="https://user-images.githubusercontent.com/110192027/191017416-15907fc3-0310-4143-9138-1f724cca308e.png">
 
-![68747470733a2f2f6f7268756e2e6465762f696d672f63726f772e706e67](https://user-images.githubusercontent.com/110192027/191017416-15907fc3-0310-4143-9138-1f724cca308e.png)
+### Hey! My name is Fellipe and I'm a self-taught programmer.
 <br>
+
+
 I'm an enthusiast of math, science and design and spend most of my day studying different technologies that relate to programming and working on projects where I can apply them.
 
 My emphasis has always been towards back-end development(more specifically for desktop applications), using **Python** as my main language.
