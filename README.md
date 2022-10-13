@@ -18,4 +18,4 @@ In top of these, here's a few projects I have worked on by myself in my 8 months
 
 - [Analisystem web C.R.U.D](https://github.com/luizfellips/websystem) - An online web-system C.R.U.D open project made with HTML,Bootstrap, jQuery, PHP and mySQL.
 - [Commercial Representative System](https://github.com/luizfellips/Commercial-Representation-System) - A system I made for my father to facilitate the visualization and fill of data structures important to his job
-- [Whatsapp Advertising Bot](https://github.com/luizfellips/Whatsapp-Bot) - A whatsapp bot with interface I written to advertise a database of electronic products(with image and description)
+- [Whatsapp Advertising Bot](https://github.com/luizfellips/Whatsapp-Bot) - A whatsapp bot with an interface I have written to advertise a database of electronic products(with image and description)
