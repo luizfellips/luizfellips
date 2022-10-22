@@ -12,6 +12,7 @@ My main technologies which I have been studying on applying them:
 - PHP(connections with MySQL and will start studies on Laravel)
 - Python (Data analysis and Tkinter, futurely Django)
 - MySQL
+- C#
 - C++ (Overall programming logic)
 
 In top of these, here's a few projects I have worked on by myself in my 8 months of self-taught progress, that are worth mentioning:
