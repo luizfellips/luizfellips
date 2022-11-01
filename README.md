@@ -8,14 +8,14 @@ I'm an enthusiast of math and science and spend most of my day studying differen
 
 My main technologies which I have been studying on applying them:
 - Javascript(jQuery and Ajax)
-- HTML and CSS(Bootstrap and futurely Tailwind)
+- HTML and CSS(Bootstrap)
 - PHP(connections with MySQL and will start studies on Laravel)
 - Python (Data analysis and Tkinter, futurely Django)
-- MySQL
+- MySQL and SQL Server
 - C#
 - C++ (Overall programming logic)
 
-In top of these, here's a few projects I have worked on by myself in my 8 months of self-taught progress, that are worth mentioning:
+On top of these, here's a few projects I have worked on by myself in my 8 months of self-taught progress, that are worth mentioning:
 
 - [Analisystem web C.R.U.D](https://github.com/luizfellips/websystem) - An online web-system C.R.U.D open project made with HTML,Bootstrap, jQuery, PHP and mySQL.
 - [Commercial Representative System](https://github.com/luizfellips/Commercial-Representation-System) - A system I made for my father to facilitate the visualization and fill of data structures important to his job
