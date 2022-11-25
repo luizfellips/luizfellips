@@ -18,7 +18,7 @@
 - PHP
 - MySQL and SQL Server
 - C++
-- MVP Pattern
+- MVP Architecture
 
 ### Here's a few projects I have worked on by myself, that are worth mentioning:
 
