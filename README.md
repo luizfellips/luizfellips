@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/110192027/191017416-15907fc3-0310-4143-9138-1f724cca308e.png">
 
-## Hey! My name is Fellipe and I'm a self-taught programmer and self-taught musicist.
+## Hey! My name is Fellipe and I'm a self-taught programmer and musicist.
 <br>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
