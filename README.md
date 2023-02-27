@@ -10,7 +10,7 @@
 ### I'm an enthusiast of math, science and open-source principles! Feel free to use my projects for studying and enlightenment.
 
 ## 🔥 My main technologies:
-- .NET Core (WinForms and ASP.NET)
+- C# | .NET Core (WinForms and ASP.NET)
 - Python
 - Javascript
 - HTML and CSS
