@@ -14,11 +14,8 @@
 
 ## 🔥 My main technologies:
 - PHP
-- C# | .NET Core (WinForms and ASP.NET)
-- Python
+- C#
 - Javascript
-- HTML and CSS
-- SQL
 
 ## Projects worth mentioning:
 
