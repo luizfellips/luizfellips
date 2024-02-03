@@ -23,5 +23,5 @@
 - - [Webank IB](https://github.com/luizfellips/Webank) - PHP Internet Banking simple system
 - [Analisystem web C.R.U.D](https://github.com/luizfellips/websystem) - An online web-system C.R.U.D open project made with HTML,Bootstrap, jQuery, PHP and mySQL.
 - -[Analisystem ASP.NET](https://github.com/luizfellips/Analisystem-NET) - A posterior version with different technologies of my pre-made system, Analisystem. With fewer but more sophisticated functionalities.
-- [Commercial Representative System](https://github.com/luizfellips/Commercial-Representation-System) - A system I made for my father to facilitate the visualization and fill of data structures important to his job
+- [Commercial Representative System](https://github.com/luizfellips/Commercial-Representation-System) - A small python system made for facilitating the visualization and filling of data structures manipulating .xlsx archives
 - [Artemis 1.0](https://github.com/luizfellips/Artemis1.0) - A whatsapp bot I created to speed up the send of ads to a list of contacts/groups.
