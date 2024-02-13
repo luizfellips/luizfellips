@@ -23,7 +23,7 @@
   
 - [Flightning](https://github.com/luizfellips/flightning) - A complete Flight management CRUD, made with Laravel
   
-- [Book manager](https://github.com/luizfellips/flightning) - A Laravel - Vue integration CRUD, W.I.P
+- [Book manager](https://github.com/luizfellips/book-manager) - A Laravel - Vue integration CRUD, W.I.P
 
 - [Custom Standard manager](https://github.com/luizfellips/Standard-Manager-PHP) A pure PHP application integrated with AJAX to manage different types of services.
 
