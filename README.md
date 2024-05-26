@@ -18,6 +18,7 @@
 - Javascript
 
 ## Projects worth mentioning:
+- [Portal de Noticias](https://github.com/luizfellips/portal-de-noticias) - An online web-system freelance project for news management, useful for journalists, columnists, etc.
 
 - [Helenium System](https://github.com/luizfellips/P.D.V-SistemaHelenium) - Winforms P.O.S System W.I.P
   
@@ -28,8 +29,6 @@
 - [Custom Standard manager](https://github.com/luizfellips/Standard-Manager-PHP) A pure PHP application integrated with AJAX to manage different types of services.
 
 - [Custom API architecture](https://github.com/luizfellips/custom-api) A pure object-oriented PHP API to manage 3 types of services.
-
-- [Analisystem web C.R.U.D](https://github.com/luizfellips/websystem) - An online web-system C.R.U.D open project made with HTML,Bootstrap, jQuery, PHP and mySQL.
   
 - -[Analisystem ASP.NET](https://github.com/luizfellips/Analisystem-NET) - A posterior version with different technologies of my pre-made system, Analisystem. With fewer but more sophisticated functionalities.
   
