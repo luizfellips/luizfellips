@@ -18,6 +18,7 @@
 - Javascript
 
 ## Projects worth mentioning:
+- [Amazon Webscraping](https://github.com/luizfellips/node-api-scrape) - An API made with Node.JS for webscrapping specific data from search results in Amazon utilizing a keyword.
 - [Portal de Noticias](https://github.com/luizfellips/portal-de-noticias) - An online web-system freelance project for news management, useful for journalists, columnists, etc.
 
 - [Helenium System](https://github.com/luizfellips/P.D.V-SistemaHelenium) - Winforms P.O.S System W.I.P
