@@ -18,7 +18,7 @@
 - Python
 
 ## Projects worth mentioning:
--[King Strong](https://github.com/luizfellips/king-strong) - A web-app based on Laravel to search through different training programs, generation of mathematical approximations for your 1RM scale and the categorization of your level in comparison to the average weight x lift ratio.
+- [King Strong](https://github.com/luizfellips/king-strong) - A web-app based on Laravel to search through different training programs, generation of mathematical approximations for your 1RM scale and the categorization of your level in comparison to the average weight x lift ratio.
 
 - [Amazon Webscraping](https://github.com/luizfellips/node-api-scrape) - An API made with Node.JS for webscrapping specific data from search results in Amazon utilizing a keyword.
 
