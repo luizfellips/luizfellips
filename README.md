@@ -1,24 +1,27 @@
 <img align="left" src="https://user-images.githubusercontent.com/110192027/191017416-15907fc3-0310-4143-9138-1f724cca308e.png">
 
-## Hey! My name is Fellipe and I'm a self-taught programmer and musicist.
+## Hello. My name is Luiz Fellipe and I'm a software developer, experienced in full-stack development, musicist and bodybuilding/powerlifting enthusiast.
 <br>
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=%23f54542)
 
-### I'm an enthusiast of math, science and open-source principles! Feel free to use my projects for studying and enlightenment.
+### I'm an enthusiast of math and science! Feel free to use my projects for studying and enlightenment.
 
 ## 🔥 My main technologies:
 - PHP
 - C#
 - Javascript
+- Python
 
 ## Projects worth mentioning:
+-[King Strong](https://github.com/luizfellips/king-strong) - A web-app based on Laravel to search through different training programs, generation of mathematical approximations for your 1RM scale and the categorization of your level in comparison to the average weight x lift ratio.
+
 - [Amazon Webscraping](https://github.com/luizfellips/node-api-scrape) - An API made with Node.JS for webscrapping specific data from search results in Amazon utilizing a keyword.
+
 - [Portal de Noticias](https://github.com/luizfellips/portal-de-noticias) - An online web-system freelance project for news management, useful for journalists, columnists, etc.
 
 - [Helenium System](https://github.com/luizfellips/P.D.V-SistemaHelenium) - Winforms P.O.S System W.I.P
@@ -31,7 +34,6 @@
 
 - [Custom API architecture](https://github.com/luizfellips/custom-api) A pure object-oriented PHP API to manage 3 types of services.
   
-- -[Analisystem ASP.NET](https://github.com/luizfellips/Analisystem-NET) - A posterior version with different technologies of my pre-made system, Analisystem. With fewer but more sophisticated functionalities.
   
 - [Commercial Representative System](https://github.com/luizfellips/Commercial-Representation-System) - A small python system made for facilitating the visualization and filling of data structures manipulating .xlsx archives
   
