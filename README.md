@@ -19,7 +19,7 @@ I love building meaningful tools, optimizing processes, and exploring the bounda
 ## 🔧 Main Technologies
 
 - **PHP & Laravel** – Powerful backend development and API design  
-- **JavaScript (Vanilla & Node.js)** – Frontend and backend scripting  
+- **JavaScript (React)** – Frontend sharp technology 
 - **Go (Golang)** – High-performance, concurrent applications  
 - **C++** – Systems-level programming, performance-focused tools  
 
