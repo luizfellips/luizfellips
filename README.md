@@ -1,40 +1,57 @@
-<img align="left" src="https://user-images.githubusercontent.com/110192027/191017416-15907fc3-0310-4143-9138-1f724cca308e.png">
+<img align="left" src="https://user-images.githubusercontent.com/110192027/191017416-15907fc3-0310-4143-9138-1f724cca308e.png" width="140" />
 
-## Hello. My name is Luiz Fellipe and I'm a software developer, experienced in full-stack development, musicist and bodybuilding/powerlifting enthusiast.
-<br>
+# Luiz Fellipe
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+Hi! I'm Luiz Fellipe — a **full-stack software developer**, lifelong **math and science enthusiast**, **musician**, and **bodybuilding/powerlifting** devotee.
+
+I love building meaningful tools, optimizing processes, and exploring the boundaries between code and real-world performance. My work spans backend systems, low-level emulators, and training analysis platforms.
+
+<br clear="left"/>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=%23f54542)
+![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### I'm an enthusiast of math and science! Feel free to use my projects for studying and enlightenment.
+---
 
-## 🔥 My main technologies:
-- PHP
-- C#
-- Javascript
-- Python
+## 🔧 Main Technologies
 
-## Projects worth mentioning:
-- [King Strong](https://github.com/luizfellips/king-strong) - A web-app based on Laravel to search through different training programs, generation of mathematical approximations for your 1RM scale and the categorization of your level in comparison to the average weight x lift ratio.
+- **PHP & Laravel** – Powerful backend development and API design  
+- **JavaScript (Vanilla & Node.js)** – Frontend and backend scripting  
+- **Go (Golang)** – High-performance, concurrent applications  
+- **C++** – Systems-level programming, performance-focused tools  
 
-- [Amazon Webscraping](https://github.com/luizfellips/node-api-scrape) - An API made with Node.JS for webscrapping specific data from search results in Amazon utilizing a keyword.
+---
 
-- [Portal de Noticias](https://github.com/luizfellips/portal-de-noticias) - An online web-system freelance project for news management, useful for journalists, columnists, etc.
+## 🚀 Projects Worth Checking Out
 
-- [Helenium System](https://github.com/luizfellips/P.D.V-SistemaHelenium) - Winforms P.O.S System W.I.P
-  
-- [Flightning](https://github.com/luizfellips/flightning) - A complete Flight management CRUD, made with Laravel
-  
-- [Book manager](https://github.com/luizfellips/book-manager) - A Laravel - Vue integration CRUD, W.I.P
+### 🏋️ [King Strong](https://github.com/luizfellips/king-strong)  
+A Laravel web app to explore training programs, estimate your 1RM, and compare your strength level to global benchmarks.
 
-- [Custom Standard manager](https://github.com/luizfellips/Standard-Manager-PHP) A pure PHP application integrated with AJAX to manage different types of services.
+### 🎮 [Go CHIP-8 Emulator](https://github.com/luizfellips/go-chip8-emulator)  
+An emulator written in Go to simulate the classic CHIP-8 architecture — for learning and fun.
 
-- [Custom API architecture](https://github.com/luizfellips/custom-api) A pure object-oriented PHP API to manage 3 types of services.
-  
-  
-- [Commercial Representative System](https://github.com/luizfellips/Commercial-Representation-System) - A small python system made for facilitating the visualization and filling of data structures manipulating .xlsx archives
-  
-- [Artemis 1.0](https://github.com/luizfellips/Artemis1.0) - A whatsapp bot I created to speed up the send of ads to a list of contacts/groups.
+### ⚙️ [C++ Processing Algorithm Rewrite](https://github.com/luizfellips/export-algorithm-oop-benchmark)  
+A payroll-related algorithm I refactored and optimized using C++ to improve internal system performance.
+
+### 🎯 [Advent of Code](https://github.com/luizfellips/advent-of-code)  
+A collection of Advent of Code challenges solved in C++ — for sharpening problem-solving and algorithmic thinking.
+
+---
+
+## 🧠 Philosophy
+
+> *"Build to understand. Break to master."*
+
+I'm always diving deep into **optimization**, **architecture**, and **automation**. My projects often start as personal experiments that grow into useful tools.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to fork, contribute, or reach out!
+
+---
+
