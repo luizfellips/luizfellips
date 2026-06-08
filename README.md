@@ -12,7 +12,7 @@ I'm a Software Engineer with experience building scalable web applications, auto
 
 Throughout my career, I've worked with companies across North America, Europe, and South America, developing full-stack applications, optimizing cloud infrastructure, automating operational workflows, and designing software architectures that improve efficiency and reduce costs.
 
-My primary expertise is in **Laravel, PHP, React, TypeScript, AWS, SQL databases, and process automation**, with a strong interest in performance engineering, mathematical computation, and systems programming.
+My primary expertise is in **Laravel, Go, PHP, React, TypeScript, AWS, SQL databases, and process automation**, with a strong interest in performance engineering, mathematical computation, and systems programming.
 
 ---
 
@@ -102,6 +102,22 @@ Key features include:
 
 ## Featured Projects
 ---
+
+## 📬 Gocourier
+**Distributed Systems & Platform Engineering**
+
+A notification delivery platform built in Go that ingests events over HTTP, routes them through a transactional outbox and NATS JetStream, and dispatches to email, SMS, push, and webhook channels with idempotency, retries, and observability baked in.
+
+**Tech**: Go, PostgreSQL, NATS, React
+
+### 💬 Go Chat
+**Real-Time Systems & Full-Stack Development**
+
+A real-time 1:1 chat application with a Go backend and React frontend, featuring JWT auth, WebSocket presence and typing indicators, read receipts, and a domain-oriented architecture backed by PostgreSQL.
+
+**Tech**: Go, PostgreSQL, React, WebSocket
+
+
 
 ### 🎮 CHIP-8 Emulator in Go
 
