@@ -148,7 +148,7 @@ Collection of programming challenges solved in C++, emphasizing algorithm design
 
 ## Connect
 
-* LinkedIn
+* LinkedIn: https://www.linkedin.com/in/luiz-fellipe-321037221/
 * Email: [luizfellipebr03@gmail.com](mailto:luizfellipebr03@gmail.com)
 
 Feel free to explore my repositories, open discussions, or collaborate on interesting projects.
